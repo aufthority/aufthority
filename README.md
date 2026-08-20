@@ -38,6 +38,10 @@ Process and compliance systems built for real institutions with real constraints
 
 ---
 
+## Evidence & data governance
+
+A consolidated ledger tracking the evidence tier — measured, proxy, or design-calibration — behind every formula and threshold across the tool suite: [aufthority/evidence-ledger](https://github.com/aufthority/evidence-ledger)
+
 ## Tech
 
 `HTML` `CSS` `JavaScript` `PostgreSQL` `Supabase` `Row-Level Security` `Vercel` `Firebase` `PWA / Service Workers` `Chart.js` `Google Sheets API / CSV pipelines`

@@ -46,4 +46,4 @@ Process and compliance systems built for real institutions with real constraints
 
 ## Elsewhere
 
-[aufthority.com](https://www.aufthority.com) · [@theaufthority](https://twitter.com/theaufthority)
+[aufthority.com](https://www.aufthority.com) · [@aufthority](https://threads.com/aufthority)
